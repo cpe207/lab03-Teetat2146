@@ -1,0 +1,61 @@
+img {
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.name {
+    font-size: 2rem;
+}
+.boximg img{
+    display: inline-block;
+}
+.box {
+    border: 2px solid black;
+    border-right: auto;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding-left: 10px;
+}
+h1 {
+    text-align: center;
+}
+.text {
+    margin-block-end: 10rem;
+}
+.namebox {
+    margin-right: 38rem;
+}
+.namehr {
+    height: 10px;
+    width: 5rem;
+    background-color: rgb(0, 0, 0);
+}
+.nav {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    color: white;
+    text-decoration: none;
+}
+.skill {
+    text-align: center;
+}
+.vl {
+    border-left: 1px solid #bfbfbf;
+    height: 680px;
+    position: absolute;
+    left: 63%;
+    margin-left: -3px;
+    top: 560px;
+}
+#code {
+    margin-right: 50% ;
+}
+.flex-item {
+    padding: .5em;
+    background: #efefef;
+    border: 3px solid #333;
+}
+.conn {
+    font-size: 5px;
+}
